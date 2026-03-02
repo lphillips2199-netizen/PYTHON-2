@@ -2001,7 +2001,7 @@ print("%s %i %i %i %i" % (rc.id, len(rc), len(rc.features), len(rc.dbxrefs), len
 
     Testing 9609 41 0 0
 
-# Sequence Input/Output
+## Sequence Input/Output
 ```python
 from Bio import SeqIO
 ```
