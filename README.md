@@ -5217,7 +5217,8 @@ cv2.imwrite('Teddy.jpg', flip_img)
 
     True
 
-## Open CV Basics pt2```python
+## Open CV Basics pt2
+```python
 import cv2
 import matplotlib.pyplot as plt
 %matplotlib inline
