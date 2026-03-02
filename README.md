@@ -1,4 +1,4 @@
-# PYTHON-2 Final Project
+# LaChanti Phillips PYTHON-2 Final Project
 
 ## Sequence Objects
 ```python
